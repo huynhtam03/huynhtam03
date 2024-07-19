@@ -6,4 +6,7 @@ Chào mừng đến với GitHub của tôi! Đây là nơi tôi chia sẻ các 
 
 Hãy khám phá các kho lưu trữ của tôi để tìm hiểu thêm về các dự án và thuật toán mà tôi đang làm việc. Nếu bạn có bất kỳ câu hỏi nào hoặc muốn đóng góp, đừng ngần ngại liên hệ với tôi!
 
-![GIF của bạn](https://github.com/user-attachments/assets/69d471e0-e7be-4271-9f87-df1c2bb1a05a)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69d471e0-e7be-4271-9f87-df1c2bb1a05a" alt="GIF của bạn">
+</p>
